@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="2_CriandoArquivo.cs" />
+  </ItemGroup>
+
 </Project>
